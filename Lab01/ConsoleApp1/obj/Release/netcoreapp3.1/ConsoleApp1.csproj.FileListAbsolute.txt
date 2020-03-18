@@ -1,0 +1,10 @@
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+D:\Nicholas Lemke\Desktop\IT - 1050 Programming\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
